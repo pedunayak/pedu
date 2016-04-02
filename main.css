@@ -1,0 +1,77 @@
+body{
+	background: white;
+    margin: 0;
+}
+.b{
+	color: yellow;
+}
+header{
+	background: gray;
+	color: white;
+	padding: 15px 15px 0px 15px;
+	font-size: 20px;
+}
+header h1{
+	margin: 0;
+
+	display: inline;
+} 
+nav ul{
+	margin: 0;
+	display: inline;
+	padding: 0px 0px 0px 15px;
+}
+nav ul li{
+	background: black;
+	border-radius: 6px;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	margin: 0px;
+
+	padding: 4px 40px;
+
+}
+nav ul li a{
+	color: white;
+}
+.row{
+   
+}
+.col{
+	background: #999;
+	padding: 10px 0.5%;
+	border-radius: 5px;
+	color: white;
+
+	margin: 0.5%;
+	width: 31%;
+	float: left;
+}
+footer{
+	clear: both;
+	margin: 10px;
+}
+a{
+	margin: 15px;
+	font-size: 20px;
+}
+.panel{
+	width: 150px;
+	display: inline-block;
+
+}
+.panel-body{
+	background-color: yellow;
+	color: red;
+	
+}
+.btn{
+	margin: 10px;
+	border-radius: 5px;
+	width: 200px
+}
+img{
+	height: 40px;
+	width: 40px;
+}
